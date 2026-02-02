@@ -11,6 +11,12 @@ This project is a desktop application to self-host Hytale servers on local/remot
   
 ---
 
+<details>
+<summary>what is this?</summary>
+-You can set a custom image/video for the background, it'll create a folder called "background" just place your files there!
+</details>
+
+---
 ## 🚀 Features
 
 ### 👥 Player Management
@@ -45,6 +51,11 @@ This project is a desktop application to self-host Hytale servers on local/remot
 
 > ⚠️ Some planned features may never be implemented.
 
+---
+
+
+> ⚠️ Somethings are in English, some in Spanish. Dont worry about it ⚠️ 
+ 
 ---
 
 ## 📝 License
